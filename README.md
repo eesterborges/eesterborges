@@ -1,3 +1,9 @@
+#Sobre mim
+- Oi,eu sou @eesterborges
+- Meu email de contato é ester.borges@escola.pr.gov.br 
+- Eu estou interessada em aprender a programar novas linguagens
+- Eu estou aprendendo a programar recentemente a  linguagem de javascript e scrath
+
 # Seçao 1
 ## Sub seçao 1
 _Editando o perfil_
@@ -21,19 +27,3 @@ _Editando o perfil_
 |2|Do|
 |3|Perfil|
 
-
-
-
-
-
-
-- 👋 Hi, I’m @eesterborges
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-eesterborges/eesterborges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
