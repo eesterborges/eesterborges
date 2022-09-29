@@ -1,5 +1,5 @@
 #Sobre mim
-- Oi,eu sou @eesterborges
+- Oi,eu sou **@eesterborges**
 - Meu email de contato é ester.borges@escola.pr.gov.br 
 - Eu estou interessada em aprender a programar novas linguagens
 - Eu estou aprendendo a programar recentemente a  linguagem de javascript e scrath
